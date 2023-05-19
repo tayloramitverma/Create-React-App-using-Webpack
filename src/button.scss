@@ -1,0 +1,10 @@
+$primaryColor:green;
+$scondaryColor:green;
+
+.success{
+    color: $primaryColor;
+}
+
+.error{
+    color: $scondaryColor;
+}
