@@ -7,4 +7,9 @@ First install webpack dependencies:
 After it, We install other support dependencies:
 
 ```npm i -D @babel/core ba
-bel-loader @babel/preset-env @babel/preset-react css-loader style-loader file-loader html-webpack-plugin mini-css-extract-plugin sass sass-loader``` 
+bel-loader @babel/preset-env @babel/preset-react css-loader style-loader file-loader html-webpack-plugin mini-css-extract-plugin sass sass-loader```
+
+
+Finally install react and react-dom
+
+`npm i react react-dom`
